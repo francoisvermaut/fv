@@ -34,4 +34,6 @@ for ($i=-500;$i<500;$i++) {
     echo $outputs[0]."  ".$outputs[1];
     echo "\n";
 }
+
+echo "OK\n";
 ?>
