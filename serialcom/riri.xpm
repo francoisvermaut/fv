@@ -1,0 +1,16 @@
+/* XPM */
+static char * C:\Users\francoisvermaut\Google Drive\Ingensol\VermautClothes\sprites\riri_xpm[] = {
+"8 8 5 1",
+" 	c #000000",
+".	c #FF0000",
+"+	c #FFFFFF",
+"@	c #FF8000",
+"#	c #9B0000",
+"        ",
+"     .. ",
+"    .++.",
+"    + + ",
+"    @@@@",
+"  +..#  ",
+"   +.+  ",
+"  @@ @@ "};

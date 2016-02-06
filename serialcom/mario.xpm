@@ -1,0 +1,18 @@
+/* XPM */
+static char * C:\Users\francoisvermaut\Google Drive\Ingensol\VermautClothes\sprites\mario_xpm[] = {
+"8 8 7 1",
+" 	c #000000",
+".	c #FF0000",
+"+	c #FFFFFF",
+"@	c #A05000",
+"#	c #FFB57F",
+"$	c #FFFF00",
+"%	c #00AEFF",
+"   ...+ ",
+"   .....",
+"  @#@ # ",
+"  @##@@#",
+"   @### ",
+" ..$%%$ ",
+"+ %%%%%#",
+"  @   @ "};

@@ -1,0 +1,18 @@
+/* XPM */
+static char * C:\Users\francoisvermaut\Google Drive\Ingensol\VermautClothes\sprites\yoshi_xpm[] = {
+"8 8 7 1",
+" 	c #000000",
+".	c #FF0000",
+"+	c #00FF00",
+"@	c #008300",
+"#	c #FFFFFF",
+"$	c #004464",
+"%	c #9B0000",
+"  .+@+  ",
+" .+ ++++",
+"  ##++++",
+" .##++++",
+"  .$### ",
+"@.@@$$@ ",
+" @+@$$@@",
+"  .. %% "};

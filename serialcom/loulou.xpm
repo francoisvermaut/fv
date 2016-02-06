@@ -1,0 +1,16 @@
+/* XPM */
+static char * C:\Users\francoisvermaut\Google Drive\Ingensol\VermautClothes\sprites\loulou_xpm[] = {
+"8 8 5 1",
+" 	c #000000",
+".	c #00AEFF",
+"+	c #FFFFFF",
+"@	c #FF8000",
+"#	c #0000FF",
+"        ",
+"     .. ",
+"    .++.",
+"    + + ",
+"    @@@@",
+"  +..#  ",
+"   +.+  ",
+"  @@ @@ "};

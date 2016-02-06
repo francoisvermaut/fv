@@ -1,0 +1,15 @@
+/* XPM */
+static char * C:\Users\francoisvermaut\Google Drive\Ingensol\VermautClothes\sprites\pacman_xpm[] = {
+"8 8 4 1",
+" 	c #000000",
+".	c #FFFF00",
+"+	c #FF8000",
+"@	c #FF0000",
+"   ...+ ",
+"  .. . +",
+"  .. . +",
+" ......+",
+"++..@  +",
+"++ ...+ ",
+"  @@ @@ ",
+" @@@ @@@"};
